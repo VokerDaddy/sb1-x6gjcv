@@ -22,7 +22,7 @@ export function Hero() {
             $CAMP
           </h1>
           <p className="text-2xl md:text-4xl font-bold text-emerald-200/90">
-            Together We Rise!
+            $CAMPing to 100M MC
           </p>
         </div>
         
@@ -40,6 +40,15 @@ export function Hero() {
           >
             <i className="fa-brands fa-telegram mr-3 text-xl md:text-2xl group-hover:scale-110 transition-transform" />
             Join the Campfire Now
+          </a>
+          <a 
+            href="https://x.com/camp_Cto"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group inline-flex items-center justify-center bg-gradient-to-r from-gray-700 to-gray-800 hover:from-gray-600 hover:to-gray-700 text-white font-bold py-4 md:py-5 px-6 md:px-10 rounded-xl transition-all duration-300 shadow-lg hover:shadow-gray-500/30 transform hover:-translate-y-1"
+          >
+            <i className="fa-brands fa-x-twitter mr-3 text-xl md:text-2xl group-hover:scale-110 transition-transform" />
+            Follow on X
           </a>
           <a 
             href="https://dexscreener.com/solana/altp3uxdo9xysl2cdt6dlxtfaeeerhnkvfbctydy7fwq"
